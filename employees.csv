@@ -1,0 +1,14 @@
+name,department,age,salary
+Jasmine,IT,25,70000
+Marcus,HR,30,
+Tyrell,IT,,65000
+Kiara,Sales,28,72000
+Darnell,IT,35,90000
+Imani,HR,29,58000
+Andre,Sales,41,80000
+Nia,IT,27,NaN
+
+/usr/local/bin/python3 /Users/mikaylasettles/Documents/GitHub/week-13/data_analysis.py
+cat employees.csv
+python3 data_analysis.py
+
